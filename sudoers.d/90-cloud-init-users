@@ -1,0 +1,4 @@
+# Created by cloud-init v. 23.1.2-0ubuntu0~20.04.2 on Thu, 26 Sep 2024 11:24:08 +0000
+
+# User rules for qwe
+qwe ALL=(ALL) NOPASSWD:ALL
